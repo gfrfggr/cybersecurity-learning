@@ -9,3 +9,8 @@ ls	listing
 cd	change directory
 cat	concatenate
 pwd	print working directory
+find -name passwords.txt to find this specific file
+grep command allows us to search the contents of files for specific values that we are looking for
+
+notes :
+great room , i have aleready seen most of those commands but it was great having a memory refreshing moment with it 
